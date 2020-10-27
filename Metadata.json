@@ -1,0 +1,20 @@
+{
+    "Author": "Mai Ali",
+    "ContentSize": 1238,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/install-iis-on-azure-using-remote-powershell/master/Install-IIS.ps1",
+    "DownloadCount": 1238,
+    "Id": "Install-IIS-on-Azure-using-27ec9382",
+    "IsFederated": false,
+    "IsWorkflow": false,
+    "Popularity": 111,
+    "RaterCount": 2,
+    "Rating": 5.0,
+    "ReleaseDate": "2018-6-2T00:00:00",
+    "RunbookKind": 5,
+    "RunbookKindString": "PowerShell",
+    "Summary": "This Script was created to Install IIS on Azure VM. The belowscript is for IIS and Windows Server 2012\\2012 R2 & Windows 2016 on Azure VM.",
+    "Title": "Install IIS on Azure using Remote Powershell",
+    "UpdatedDate": "2018-6-2T00:00:00",
+    "Url": "https://github.com/azureautomation/install-iis-on-azure-using-remote-powershell",
+    "UserTags": "Microsoft Azure, Powershell"
+}
